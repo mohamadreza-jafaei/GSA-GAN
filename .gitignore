@@ -1,0 +1,5 @@
+*.hdf5
+*.hf5
+*.zip
+*.log
+*.pkl
